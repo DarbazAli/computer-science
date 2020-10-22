@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class StringConcat {
     public static void main(String[] args) {
         int age = 30;

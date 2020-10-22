@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class EX_1_2_10 {
     public static void main(String[] args) {
         int a = Integer.MAX_VALUE;

@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class RGB_TO_CMYK {
     public static void main(String[] args) {
         int r = Integer.parseInt(args[0]);

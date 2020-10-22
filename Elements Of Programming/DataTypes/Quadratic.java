@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class Quadratic {
     public static void main(String[] args) {
         double b = Double.parseDouble(args[0]);

@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class EX_1_2_27 {
     public static void main(String[] args) {
         double u = Math.random();

@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class EX_1_2_14 {
     public static void main(String[] args) {
         int a = Integer.parseInt(args[0]);

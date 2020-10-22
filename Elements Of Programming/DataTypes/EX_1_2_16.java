@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class EX_1_2_16 {
     public static void main(String[] args) {
         double G = Double.parseDouble(args[0]);

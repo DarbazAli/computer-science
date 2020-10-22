@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class EX_1_2_24 {
     public static void main(String[] args) {
         // A = Math.power(Pe, rt)

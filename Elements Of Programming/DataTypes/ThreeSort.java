@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class ThreeSort {
     public static void main(String[] args) {
         int a = Integer.parseInt(args[0]);
