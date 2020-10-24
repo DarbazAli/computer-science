@@ -11,8 +11,8 @@ public class PowerOfTwo {
         } else {
             while (i <= n) {
                 System.out.println(i + " " + power);
-                power = 2 * power;
-                i = i + 1;
+                power *= 2;
+                i++;
             }
         }
 
