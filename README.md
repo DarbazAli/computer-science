@@ -1,1 +1,1 @@
-# Computer Science with Python
+# Computer Science with Python - an interdisciplinary approach
