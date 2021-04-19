@@ -1,1 +1,1 @@
-# Computer Science with Python - an interdisciplinary approach
+# Computer Science with JAVA - an interdisciplinary approach
